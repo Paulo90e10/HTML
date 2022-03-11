@@ -1,0 +1,8 @@
+.background-w{
+    background: url(../image/worship_header2.jpg) center bottom fixed repeat-x;
+    background-size: contain;
+}
+.mb-3{
+    color: white; font-weight: 100;
+}
+#b1{}

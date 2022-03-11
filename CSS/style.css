@@ -1,0 +1,35 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background:url('../imagem/papel-de-parede-abstrato-preto-e-azul-papel-de-parede-2560x1600_7.jpg')no-repeat fixed left top ;
+    background-size: cover;
+}
+header{
+    background-color: white; color: black;
+    font-size: 15px; padding: 25px;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 90px;
+}
+main{padding: 25px 30px 25px 30px;}
+footer{background-color: gray; color: black;
+text-align: right;
+padding: 25px 30px 25px 30px;}
+#t1{font-size: 30px;
+font-weight: 100;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#t2{font-size: 30px;
+font-weight: 200;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.paragrafo{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.tabela, td,th,tr { border: 2px solid; color: white;
+    width: 500px;
+ }
+ div{
+     color: white;
+ }
