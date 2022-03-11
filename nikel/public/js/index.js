@@ -1,4 +1,3 @@
-const myModal = new bootstrap.Modal("#registermodal");
 const logged = sessionStorage.getItem("logged")
 const session = localStorage.getItem("session")
 
